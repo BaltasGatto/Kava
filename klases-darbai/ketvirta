@@ -1,0 +1,16 @@
+<?php
+$target = "Pirmadienis";
+switch ($target) {
+    case "Pirmadienis";
+    print "AntrAdienis";
+break;
+case "Antradienis";
+print "Antradienis";
+break;
+case "Treciadienis";
+print "Treciadienis";
+break;
+case "ketvirtadienis";
+print "ketvirtadinenis";
+break;
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Pirma uzduotis</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+	<body>
+	<?php
+/*
+1.Sujunkite kintamuosius. kad atspausdintu teksta "mano batai buvo du"
+*/
+
+$a = 'du ';
+$b = 'mano ';
+$c = 'batai buvo ';
+
+print $b . $c . $a ; 
+?>
+	</body>
+</html>
+
